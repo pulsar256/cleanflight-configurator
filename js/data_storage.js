@@ -3,7 +3,7 @@
 var CONFIGURATOR = {
     'releaseDate': 1424462791805, // new Date().getTime() - 2015.02.20
     'apiVersionAccepted': 1.2,
-    'backupRestoreMinApiVersionAccepted': 1.8,
+    'backupRestoreMinApiVersionAccepted': 1.6,
     'pidControllerChangeMinApiVersion': 1.5,
     'backupFileMinVersionAccepted': '0.63', // chrome.runtime.getManifest().version is stored as string, so does this one
     'connectionValid': false,
